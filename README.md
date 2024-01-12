@@ -32,7 +32,15 @@
             console.log('Username:', username);
             console.log('Password:', password);
             
-            // 此处缺少实际连接VPN服务器的代码，需要根据具体情况实现
+            // 此处缺少实际连接VPN服务器的代码，需要根据具体情况实现 
+            //To professionally set up a VPN and develop apps supporting iOS, iPad, Mac, TV, Android, and PC, with availability on major app stores. For inquiries, contact TG: @mari00888.
+
+
+
+
+
+
+
         }
     </script>
 </body>
